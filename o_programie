@@ -5,5 +5,5 @@ Program powstal w ramach pracy na zajeciach podstaw programowa.Program umozliwia
 -Wystwietlenie aktualnego pliku nad ktorym pracujemy
 -zapis pliku
 -odczyt pliku
-Funkcja odczytujaca program z pliku zostala udostepniona przez dr.inz Roberta Muszynskiego, ktory byl prowadzacym zajecia.Pozostala czesc implementacji jest mojego autorstwa
-w folderze projektu "przetw" znajduje sie przykladowy obraz na ktorym mozna pracowac.
+Funkcja odczytujaca program z pliku zostala udostepniona przez dr.inz Roberta Muszynskiego, ktory byl prowadzacym zajecia.
+Ja doda³em do niej dynamiczn¹ alokacje pamieci.
