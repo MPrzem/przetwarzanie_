@@ -1,0 +1,9 @@
+Program powstal w ramach pracy na zajeciach podstaw programowa.Program umozliwia modyfikacje plikow graficznych PGM.Program udostepnia funkcje:
+-Negatyw obrazu
+-Korekcja gamma(nielinowe przeskalowanie jasnosci pikseli)
+-Progowanie. Przetwarza obaz na postac czarnobiala. Prog decyduje o tym od jakiej wartosci jasnosci uznac piksel za czarny lub bialy.
+-Wystwietlenie aktualnego pliku nad ktorym pracujemy
+-zapis pliku
+-odczyt pliku
+Funkcja odczytujaca program z pliku zostala udostepniona przez dr.inz Roberta Muszynskiego, ktory byl prowadzacym zajecia.Pozostala czesc implementacji jest mojego autorstwa
+w folderze projektu "przetw" znajduje sie przykladowy obraz na ktorym mozna pracowac.
